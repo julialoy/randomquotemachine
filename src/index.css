@@ -34,10 +34,11 @@ code {
 
 #text,
 #author {
-  font: 1.5em "Dancing Script", cursive;
+  font: 1.5em "Lobster", "Marck Script", cursive;
 }
 
-#button-group {
+#button-group-quote,
+#button-group-lang {
   padding-top: 2rem;
 }
 
